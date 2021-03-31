@@ -47,6 +47,9 @@
 // VERSION: 1.0.1
 // https://github.com/Auburn/FastNoise
 
+namespace FastNoiseLite
+{
+
 using System;
 using System.Runtime.CompilerServices;
 
@@ -2503,4 +2506,5 @@ public class FastNoiseLite
         yr += vy * warpAmp;
         zr += vz * warpAmp;
     }
+}
 }
