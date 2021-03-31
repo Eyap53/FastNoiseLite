@@ -47,7 +47,7 @@
 // VERSION: 1.0.1
 // https://github.com/Auburn/FastNoise
 
-namespace FastNoiseLite
+namespace FastNoise
 {
 
 using System;
