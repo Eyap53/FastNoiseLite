@@ -4,7 +4,7 @@ This fork is meant to be used as a UPM package inside Unity.
 
 You can be install this package via the Unity Package Manager (UPM). In the top left of the Packages window, navigate to Add Package -> Add package from git URL and paste [https://github.com/Eyap53/FastNoiseLite.git](https://github.com/Eyap53/FastNoiseLite.git).
 
-All credits goes to Jordan Peck and the contributors of the FastNoiseLite library. [https://github.com/Auburn/FastNoiseLite.git](https://github.com/Auburn/FastNoiseLite.git). You may find a sponsor link there to support HIS work.
+All credits goes to Jordan Peck and the contributors of the FastNoiseLite library. [https://github.com/Auburn/FastNoiseLite.git](https://github.com/Auburn/FastNoiseLite.git). You may find a sponsor link there to support **his** work.
 
 
 # FastNoise Lite
