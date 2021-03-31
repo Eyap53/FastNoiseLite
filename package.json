@@ -1,0 +1,20 @@
+{
+    "name": "com.eyap53.fastnoiselite",
+    "version": "0.0.1",
+    "displayName": "Fast Noise Lite",
+    "description": "Noise generation library with a large selection of noise algorithms.",
+    "unity": "2021.1",
+    "unityRelease": "0f1",
+    "keywords": [
+        "FastNoise",
+        "fast",
+        "noise",
+        "3D noise",
+        "simplex"
+    ],
+    "author": {
+        "name": "Mael Lacour",
+        "email": "public.dev@maellacour.com",
+        "url": "https://github.com/Eyap53/FastNoiseLite"
+    }
+}
